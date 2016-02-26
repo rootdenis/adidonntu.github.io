@@ -1,0 +1,5 @@
+User-agent: *
+
+#Sitemap: http://vesti.adidonntu.ru/sitemap.xml
+Host: vesti.adidonntu.ru
+#EOF
